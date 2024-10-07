@@ -1,0 +1,61 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AppProjectKP_SaskiaBintangMaharani_2019230047
+</name>
+</assembly>
+<members>
+<member name="T:AppProjectKP_SaskiaBintangMaharani_2019230047.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:AppProjectKP_SaskiaBintangMaharani_2019230047.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:AppProjectKP_SaskiaBintangMaharani_2019230047.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:AppProjectKP_SaskiaBintangMaharani_2019230047.My.Resources.Resources._153__Daftar_Jasa_Pengiriman_Barang_Lengkap_Dengan_Tarifnya">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppProjectKP_SaskiaBintangMaharani_2019230047.My.Resources.Resources.hh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppProjectKP_SaskiaBintangMaharani_2019230047.My.Resources.Resources.kargotangerang">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppProjectKP_SaskiaBintangMaharani_2019230047.My.Resources.Resources.logo_lkc_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppProjectKP_SaskiaBintangMaharani_2019230047.My.Resources.Resources.Memahami_Perbedaan_Pengiriman_Cargo_Darat_Laut_Dan_Udara">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppProjectKP_SaskiaBintangMaharani_2019230047.My.Resources.Resources.pp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppProjectKP_SaskiaBintangMaharani_2019230047.My.Resources.Resources.WhatsApp_Image_2022_05_18_at_17_18_39_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
